@@ -14,6 +14,49 @@ nav {
     overflow: hidden;   
 }
 
+
+// NAVBAR SASS style
+//#navbar {
+//  padding-left: 12%;
+//  margin-bottom: 1000px;
+//  margin: 8px -8px 8px -8px;
+//  background-color: #000000;
+//  overflow: hidden;
+//
+//  ul {
+//    padding: 0;
+//    list-style: none;
+//  }
+//
+//  li {
+//    display: inline;
+//  }
+//
+//  a {
+//    color: #fff;
+//    text-decoration: none;
+//    font-size: 25px;
+//    padding-right: 13%;
+//
+//    &:hover {
+//      color: rgb(218, 149, 0);
+//      text-decoration: none;
+//      font-size: 25px;
+//      padding-right: 13%;
+//      border: whitesmoke;
+//    }
+//
+//    &:active {
+//      color: rgb(255, 0, 0);
+//      text-decoration: none;
+//      font-size: 25px;
+//      padding-right: 13%;
+//      border: whitesmoke;
+//    }
+//  }
+//}
+//--------------
+
 #navbar{
     padding-left: 12%;
     margin-bottom: 1000px;
